@@ -1,0 +1,3 @@
+[submodule "Arduino_FreeRTOS_Library"]
+	path = Arduino_FreeRTOS_Library
+	url = git@github.com:feilipu/Arduino_FreeRTOS_Library.git
